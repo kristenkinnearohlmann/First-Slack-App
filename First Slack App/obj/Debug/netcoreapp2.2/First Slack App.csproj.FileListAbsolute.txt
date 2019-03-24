@@ -1,0 +1,11 @@
+C:\Users\kkinnea\Source\repos\First Slack App\First Slack App\bin\Debug\netcoreapp2.2\First Slack App.deps.json
+C:\Users\kkinnea\Source\repos\First Slack App\First Slack App\bin\Debug\netcoreapp2.2\First Slack App.runtimeconfig.json
+C:\Users\kkinnea\Source\repos\First Slack App\First Slack App\bin\Debug\netcoreapp2.2\First Slack App.runtimeconfig.dev.json
+C:\Users\kkinnea\Source\repos\First Slack App\First Slack App\bin\Debug\netcoreapp2.2\First Slack App.dll
+C:\Users\kkinnea\Source\repos\First Slack App\First Slack App\obj\Debug\netcoreapp2.2\First Slack App.csproj.CoreCompileInputs.cache
+C:\Users\kkinnea\Source\repos\First Slack App\First Slack App\obj\Debug\netcoreapp2.2\First Slack App.AssemblyInfoInputs.cache
+C:\Users\kkinnea\Source\repos\First Slack App\First Slack App\obj\Debug\netcoreapp2.2\First Slack App.AssemblyInfo.cs
+C:\Users\kkinnea\Source\repos\First Slack App\First Slack App\bin\Debug\netcoreapp2.2\First Slack App.pdb
+C:\Users\kkinnea\Source\repos\First Slack App\First Slack App\obj\Debug\netcoreapp2.2\First Slack App.dll
+C:\Users\kkinnea\Source\repos\First Slack App\First Slack App\obj\Debug\netcoreapp2.2\First Slack App.pdb
+C:\Users\kkinnea\Source\repos\First Slack App\First Slack App\obj\Debug\netcoreapp2.2\First Slack App.csprojAssemblyReference.cache
